@@ -1,0 +1,3 @@
+[submodule "subrepo2"]
+	path = subrepo2
+	url = git@github.com:shigithub/subrepo2.git
